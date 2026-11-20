@@ -754,7 +754,6 @@ The following improvements are recommended:
 | Hyperparameter optimization | `RandomizedSearchCV` |
 | Model storage | Joblib |
 | Development environment | Google Colab / Jupyter Notebook |
-
 ---
 
 ## Appendix B: Final Model Configuration
@@ -775,3 +774,8 @@ The following improvements are recommended:
 | Test F1-score | 0.8413 |
 | Test ROC-AUC | 0.9254 |
 | Saved artifacts | `customer_churn_model.pkl`, `customer_features.pkl` |
+---
+
+
+## Appendix C: Project Presentation
+Power Point Presentation | <https://docs.google.com/presentation/d/17wdBKhqlo2tNXxgOuPJs-jekm1qZcIfU/edit?usp=sharing&ouid=115931841186463797251&rtpof=true&sd=true>
